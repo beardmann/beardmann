@@ -94,13 +94,13 @@
 
 ## 📊 GitHub Stats
 
-![Shubham's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shubhamusername&show_icons=true&theme=default)
+![beardmann GitHub Stats](https://github-readme-stats.vercel.app/api?username=beardmann&show_icons=true&theme=default)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shubhamusername&layout=compact&theme=default)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=beardmann&layout=compact&theme=default)
 
 ---
 
 ## 🏆 GitHub Trophies
 
-[![Trophy](https://github-profile-trophy.vercel.app/?username=shubhamusername&theme=flat&no-frame=true&margin-w=10)](https://github.com/shubhamusername)
+[![Trophy](https://github-profile-trophy.vercel.app/?username=beardmann&theme=flat&no-frame=true&margin-w=10)](https://github.com/shubhamusername)
 ￼Enter file contents here
